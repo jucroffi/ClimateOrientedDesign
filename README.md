@@ -1,27 +1,20 @@
-# grasshopper_template
-
-![Screenshot](/thumbnail.png)
+# ClimateOrientedDesign
 
 ## Difficulty 
-Simple
+Simple-Moderate
 
 ## Description 
-INSERT HERE
+A set of scripts for various climate based reviews. Including daylight, solar analysis, wind and basic energy modelling
 
 ## Repository Ownership**
-* **Practice**: INSERT HERE
-* **Sector**: INSERT HERE
-* **Original Author(s)** INSERT HERE
-* **Contact Details for Current Repository Owner(s)** tatjana.somova@mottmac.com
+* **Practice**: Sustainabilty
+* **Sector**: Build Environment
+* **Original Author(s)** Alexandra Bogdanova
+* **Contact Details for Current Repository Owner(s)** alex.bogdanova@mottmac.com
 
 ## Installation Instructions**
-List of external packages:
-Githopper - Version=1.3.1, Snippets.scripting - Version=0.0.0.0, MetaHopper - Version=1.0.8.0
-
-In order to successfully run the code in this repository, it is recommended that you copy all external plugins used within the script to AppData folder and zip it.
-
-Path to the Grasshopper plugins:
-C:\Users\"your username"\AppData\Roaming\Grasshopper\Libraries
+Check out this page for details 
+https://mottmac.sharepoint.com/sites/AutomationComputationalDesign/_layouts/15/Doc.aspx?sourcedoc={f8aa4a57-6b49-4c20-b41e-89fc2068af1a}&action=edit&wd=target%2801%20Intro.one%7Cfc33cc6d-ee35-414f-ae48-e45ef2b0951b%2FInstallation%7C20f66781-7f50-4957-9d0d-17ad3d51634e%2F%29&wdorigin=703
 
 ## Tested on**
 * **Rhino version**: 7
@@ -34,5 +27,5 @@ Insert instructions on how to run the code here.
 ### Change Log 
 
 ### Tags 
-grasshopper_template, Grasshopper
+grasshopper_template, Grasshopper, LadybugTools
 
