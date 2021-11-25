@@ -21,11 +21,12 @@ https://mottmac.sharepoint.com/sites/AutomationComputationalDesign/_layouts/15/D
 
 ## Running the Code
  ```
-Insert instructions on how to run the code here.
+Watch recorded videos on stream
+https://web.microsoftstream.com/browse?q=Ladybug%20tools
 
 ```
 ### Change Log 
 
 ### Tags 
-grasshopper_template, Grasshopper, LadybugTools
+Grasshopper, LadybugTools, ClimateOrientedDesign, Sustainability
 
